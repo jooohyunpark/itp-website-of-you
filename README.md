@@ -6,13 +6,9 @@ This is the repository for Fall 2022 ITP class Website of You.
 
 - Joohyun Park
 - Class dates
-  - 10/01/2022, Saturday, 12:20pm-3:20pm
-  - 10/08/2022, Saturday, 12:20pm-3:20pm
-  - 10/15/2022, Saturday, 12:20pm-3:20pm
+  - TBD
 - [Office hours](https://calendar.google.com/calendar/u/0/appointments/schedules/AcZssZ38e_td9fOuExnsHGYNL-FhkFVHDDICVNefmc2V0rmHLALBSDYYQ_irIQHs3RCnAxpkBLUo0OcO)
-  - 10/01/2022, Saturday, 3:30pm-4:30pm
-  - 10/08/2022, Saturday, 3:30pm-4:30pm
-  - 10/15/2022, Saturday, 3:30pm-4:30pm
+  - TBD
 
 ## Course Ojbectives
 
@@ -28,8 +24,8 @@ At the completion of this course, the students will:
 Clone this repo. It has weekly code examples in each folder.
 
 ```bash
-$ git clone https://github.com/jooohyunpark/itp-wou-fall-2022.git
-$ cd itp-wou-fall-2022
+$ git clone https://github.com/jooohyunpark/itp-wou-fall-2023.git
+$ cd itp-wou-fall-2023
 ```
 
 You can find different examples under `/pages` in weekly folder. To run these example, run following command from the root.
