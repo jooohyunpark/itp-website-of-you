@@ -10,6 +10,11 @@ This is the repository for Fall 2022 ITP class Website of You.
 - [Office hours](https://calendar.google.com/calendar/u/0/appointments/schedules/AcZssZ38e_td9fOuExnsHGYNL-FhkFVHDDICVNefmc2V0rmHLALBSDYYQ_irIQHs3RCnAxpkBLUo0OcO)
   - TBD
 
+
+## Course Description
+This course aims to provide students with skills to design and build a fully custom portfolio website from the ground up. The class will cover the full web development life cycle: prototyping idea, designing UX/UI, coding in Vue.js, and deploying the site through weekly lecture, hands-on exercise, and discussion. Students will apply the design/coding skills learned to develop a portfolio that can creatively showcase their works. 
+
+
 ## Course Ojbectives
 
 At the completion of this course, the students will:
