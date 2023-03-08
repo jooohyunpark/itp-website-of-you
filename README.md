@@ -1,6 +1,6 @@
 # itp-wou-fall-2023
 
-This is the repository for Fall 2022 ITP class Website of You.
+This is the repository for Fall 2023 ITP class Website of You.
 
 ## Info
 
