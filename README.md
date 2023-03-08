@@ -125,10 +125,10 @@ The class codebases mainly use below packages. Please make sure you're using the
 
 ## Tools
 
-- [Vue.js](https://vuejs.org/) – The progressive javaScript framework for building UI
-- [Nuxt.js](https://nuxtjs.org/) – JavaScript library based on Vue.js
-- [Sass](https://sass-lang.com/) – Powerful CSS extension language for advanced styling
-- [Bootstrap](https://getbootstrap.com/) – CSS framework for responsive web development
+- [Vue.js](https://vuejs.org/) – Progressive javaScript framework for building UI
+- [Nuxt.js](https://nuxtjs.org/) – Framework for creating Vue. js applications
+- [Sass](https://sass-lang.com/) – CSS extension language for advanced styling
+- [Bootstrap Vue](https://bootstrap-vue.org/) – CSS framework for responsive web development
 
 ## Additional Resources
 
