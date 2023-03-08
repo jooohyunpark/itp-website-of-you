@@ -24,6 +24,17 @@ At the completion of this course, the students will:
 3. Prototype and develop custom portfolio site weekly
 
 
+## Prerequisites
+
+Please install these on your machine before the first class.
+
+- [VS Code](https://code.visualstudio.com/) with the [Vetur](https://marketplace.visualstudio.com/items?itemName=octref.vetur) extension
+- [Git](https://github.com/git-guides/install-git)
+- [Node](https://nodejs.org/en/)
+- [npm](https://www.npmjs.com/) - Comes with Node.js installation. You can also use [yarn](https://classic.yarnpkg.com/en/) if you want.
+- Node version managers (optional) – Any node version manager such as [n](https://github.com/tj/n) (recommended) or [nvm](https://github.com/nvm-sh/nvm).
+
+
 ## Get Started
 
 Clone this repo. It has weekly code examples in each folder.
@@ -44,16 +55,6 @@ $ yarn dev  # npm run dev
 # localhost:3000/example-1
 # ...
 ```
-
-## Prerequisites
-
-Please install these on your machine before the first class.
-
-- [VS Code](https://code.visualstudio.com/) with the [Vetur](https://marketplace.visualstudio.com/items?itemName=octref.vetur) extension
-- [Git](https://github.com/git-guides/install-git)
-- [Node](https://nodejs.org/en/)
-- [npm](https://www.npmjs.com/) - Comes with Node.js installation. You can also use [yarn](https://classic.yarnpkg.com/en/) if you want.
-- Node version managers (optional) – Any node version manager such as [n](https://github.com/tj/n) (recommended) or [nvm](https://github.com/nvm-sh/nvm).
 
 ## Packages
 The class codebases mainly use below packages. Please make sure you're using the consistent versions. Especially, please use Vue2/Nuxt2. (Do NOT use Vue3/Nuxt3. They're unstable and not production-ready yet.)
