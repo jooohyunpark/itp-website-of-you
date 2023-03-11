@@ -72,62 +72,31 @@ The class codebases mainly use below packages. Please make sure you're using the
 ```
 
 
-## Week 1 - Intro / Vue Basics / Directives
+## Week 1 - Vue Intro (page)
+Review portfolio website examples. Pull down nuxt boilerplate and go through Vue concept and code structure.
+- Exercise: Create Home and About pages using Nuxt router
 
-- Intro
+## Week 2 - Design exercise
+Design exercise – break into groups and design basic portfolio site using various methods.
 
-  - [Portfolio website examples](https://github.com/jooohyunpark/itp-wou-fall-2022/blob/main/Notes.md#portfolio-site-examples)
-  - [Git](https://www.atlassian.com/git/tutorials/why-git), [Github Desktop](https://desktop.github.com/), [npm](https://www.npmjs.com/package/p5), [package.json](https://nodejs.dev/learn/the-package-json-guide)
-  - [javascript frameworks](https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Client-side_JavaScript_frameworks)
+## Week 3 - Data / Directives
+Understand vue fundamentals.
+- Exercise: use v-for to loop through projects and render them. 
 
-- Vue/Nuxt basics
+## Week 4 - Styles / Responsive Layout
+Implement responsive layout system using dvanced styling method. 
+- Exercise: given desktop design comp, make layout responsive (design -> develop in a team)
 
-  - [Vue explained in 100s](https://youtu.be/nhBVL41-_Cw)
-  - [Nuxt code structure](https://nuxtjs.org/docs/get-started/directory-structure/)
-  - [Data](https://vuejs.org/api/options-state.html#data), [methods](https://vuejs.org/api/options-state.html#methods)
-  - [Lifecycle hooks](https://v2.vuejs.org/v2/guide/instance.html#Lifecycle-Diagram) (mounted, beforeDestroy)
-  - Navigation with [NuxtLink](https://nuxtjs.org/docs/features/nuxt-components#the-nuxtlink-component)
+## Week5 - Component
+Learn modular programming pattern and practice creating reusable component.
+- Exercise - create a button
 
-- Directives
-  - [v-bind (:)](https://vuejs.org/api/built-in-directives.html#v-bind) - dynamic data (src, class, id, key)
-  - [v-if](https://vuejs.org/api/built-in-directives.html#v-if) - render elements conditionally
-  - [v-for](https://vuejs.org/api/built-in-directives.html#v-for) - loop through data
-  - [v-on (@)](https://vuejs.org/api/built-in-directives.html#v-on) - user events (click, mouseover, keypress)
-  
- - Components
-    - [Components](https://nuxtjs.org/docs/directory-structure/components) and [props](https://vuejs.org/guide/components/props.html#props-declaration)
+## Week 6 - Advanced Script / Deploy
+Explore how to install/import external libraries.
 
-## Week 2 - Intro to Scss / Responsive Layout / Advanced styles
+## Week 7 - Presentation
+Students present their portfolio website.
 
-- Intro to Scss
-  - [Scss](https://sass-lang.com/guide) basics and [setup in Nuxt](https://github.com/jooohyunpark/itp-wou-fall-2022/blob/main/Note.md#using-scss-in-nuxt)
-  - Configure [global style](https://nuxtjs.org/docs/configuration-glossary/configuration-css/)
-
-- Responsive layout
-  - Responsive layout using [bootstrap grid system](https://getbootstrap.com/docs/5.2/layout/grid/)
-
-- Advanced styles
-  - Custom fonts
-  - [Bootstrap UIs](https://getbootstrap.com/docs/5.2/components/dropdowns/)
-
-
-## Week 3 - Recap / Deploy / Presentations
-
-- Recap
-
-  - [Demo site](https://github.com/jooohyunpark/wou-demo-site)
-    - Home page
-    - Project page
-    - About page
-
-
-- Deploy
-
-  - [Static site generation](https://nuxtjs.org/docs/get-started/commands/#static-deployment-pre-rendered)
-  - [Github Pages](https://docs.github.com/en/pages/getting-started-with-github-pages/configuring-a-publishing-source-for-your-github-pages-site)
-  - [Dreamhost](https://www.dreamhost.com/)
-
-- Presentation
 
 ## Tools
 
