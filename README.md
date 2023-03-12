@@ -83,7 +83,7 @@ Design exercise – break into groups and design basic portfolio site using vari
 Understand vue fundamentals.
 - Exercise: use v-for to loop through projects and render them. 
 
-## Week 4 - Styles / Responsive Layout
+## Week 4 - Style / Responsive Layout
 Implement responsive layout system using dvanced styling method. 
 - Exercise: given desktop design comp, make layout responsive (design -> develop in a team)
 
