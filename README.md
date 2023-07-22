@@ -7,7 +7,7 @@ This is the repository for fall 2023 ITP class Website of You.
 - Joohyun Park
 - Class dates
   - TBD
-- [Office hours](https://calendar.google.com/calendar/u/0/appointments/schedules/AcZssZ38e_td9fOuExnsHGYNL-FhkFVHDDICVNefmc2V0rmHLALBSDYYQ_irIQHs3RCnAxpkBLUo0OcO)
+- [Office hours](https://calendar.app.google/BYHgr6gMdJk75LfX7)
   - TBD
 
 
