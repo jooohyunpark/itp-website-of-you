@@ -1,4 +1,4 @@
-# itp-wou-fall-2023
+# itp-website-of-you
 
 This is the repository for fall 2023 ITP class Website of You.
 
